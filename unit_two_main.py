@@ -5,7 +5,7 @@ import shutil
 from tkinter import filedialog
 from tkinter import messagebox as mb
 import tkinter as tk
-from tkinter import simpledialog, messagebox, font
+from tkinter import simpledialog, messagebox
 from dataclasses import dataclass
 import random
 
